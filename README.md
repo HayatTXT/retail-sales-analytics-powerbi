@@ -72,13 +72,13 @@ retail-sales-analytics-powerbi/
 ## Screenshots
 
 ### Sales Dashboard
-![Sales Dashboard](screenshots/dashboard1.png)
+![Sales Dashboard](screenshots/SS1.png)
 
 ### Promotion Analysis
-![Promotion Analysis](screenshots/dashboard2.png)
+![Promotion Analysis](screenshots/SS2.png)
 
 ### Product Performance
-![Product Performance](screenshots/dashboard3.png)
+![Product Performance](screenshots/SS3.png)
 
 ---
 
@@ -91,4 +91,4 @@ retail-sales-analytics-powerbi/
 ---
 
 ## Author
-Hayat Khan
+Hayat Faruquee
