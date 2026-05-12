@@ -80,6 +80,9 @@ retail-sales-analytics-powerbi/
 ### Product Performance
 ![Product Performance](screenshots/SS3.png)
 
+### Transaction Analysis
+![Transaction Analysis](screenshots/SS4.png)
+
 ---
 
 ## Future Improvements
